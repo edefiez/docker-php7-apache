@@ -1,4 +1,5 @@
 # docker-php7-apache
+![Docker Hub Informations](http://dockeri.co/image/edefiez/php7-apache)
 
 * Composer
 
